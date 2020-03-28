@@ -3,4 +3,4 @@ Plugin gives you an ability to directly use **iOS** and **watchOS** API, in orde
 
 We’ve put all our experience of how to properly build a plugin for Unity developers community, that we gained from being an asset store publisher and a game developer for more than 8 years.
 
-Note: This repository only created for [Wiki](https://github.com/StansAssets/com.stansassets.ios-native/wiki) documentation. The plugin source code is fully open and available after the purchase on the Unity [Asset Store](https://assetstore.unity.com/packages/tools/integration/ios-native-pro-119175)
+**Note:** This repository only created for [Wiki](https://github.com/StansAssets/com.stansassets.ios-native/wiki) documentation. The plugin source code is fully open and available after the purchase on the Unity [Asset Store](https://assetstore.unity.com/packages/tools/integration/ios-native-pro-119175)
