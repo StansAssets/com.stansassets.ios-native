@@ -5,7 +5,7 @@ We’ve put all our experience of how to properly build a plugin for Unity devel
 
 **Note:** This repository only created for [Wiki](https://github.com/StansAssets/com.stansassets.ios-native/wiki) documentation. The plugin source code is fully open and available after the purchase on the Unity [Asset Store](https://assetstore.unity.com/packages/tools/integration/ios-native-pro-119175)
 
-### API convention
+### API Convention
 We do not want you to learn "another 3rd party plugin" API, that's why iOS Native plugin API is mirroring the Apple official `Objective-C` API in a `CSharp-ish` manner.  As an example see the sample how to share the first image from the photo gallery to Instagram
 
 With the `Objective-C`
