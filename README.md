@@ -1,9 +1,9 @@
 # iOS Native Pro
 Plugin gives you an ability to directly use **iOS** and **watchOS** API, in order to make your application feel more natural and friendly for the iOS users. Almost any App Store game has to implement **In-App Purchases, Game Center, Social sharing, Local Notifications etc**. And this is only small part of useful API and features we have in our plugin.
 
-We’ve put all our experience of how to properly build a plugin for Unity developers community, that we gained from being an asset store publisher and a game developer for more than 8 years.
+We’ve put all our experience of how to properly build a plugin for Unity developers community, that we gained from being an [Asset Store Publisher](https://assetstore.unity.com/publishers/2256) and making [games & applications](https://stansassets.com/#portfolio) for more than 8 years.
 
-**Note:** This repository only created for [Wiki](https://github.com/StansAssets/com.stansassets.ios-native/wiki) documentation. The plugin source code is fully open and available after the purchase on the Unity [Asset Store](https://assetstore.unity.com/packages/tools/integration/ios-native-pro-119175)
+**Note:** The plugin source code is only avaliable after the purchase on the [Unity Asset Store](https://assetstore.unity.com/packages/tools/integration/ios-native-pro-119175)
 
 ### API Convention
 We do not want you to learn "another 3rd party plugin" API, that's why iOS Native plugin API is mirroring the Apple official `Objective-C` API in a `CSharp-ish` manner.  As an example see the sample how to share the first image from the photo gallery to Instagram
