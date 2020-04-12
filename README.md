@@ -9,6 +9,7 @@ We’ve put all our experience of how to properly build a plugin for Unity devel
 About Us
 -------------------
 We are committed to developing high quality and engaging entertainment software. Our mission has been to bring a reliable Unity development service to companies and indiciduals around the globe. [Let's Talk!](mailto::stan@stansassets.com)
+[Website](https://stansassets.com/#contacts) | [LinkedIn](https://www.linkedin.com/in/lacost/) | [Youtube](https://www.youtube.com/user/stansassets/videos) | [Github](https://github.com/StansAssets) | [AssetStore](https://assetstore.unity.com/publishers/2256)
 
 Plugin Build principles
 -------------------
