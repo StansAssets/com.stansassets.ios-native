@@ -8,8 +8,7 @@ We’ve put all our experience of how to properly build a plugin for Unity devel
 
 About Us
 -------------------
-We are committed to developing high quality and engaging entertainment software. Our mission has been to bring a reliable Unity development service to companies and indiciduals around the globe. [Let's Talk!](mailtto::stan@stansassets.com
-)
+We are committed to developing high quality and engaging entertainment software. Our mission has been to bring a reliable Unity development service to companies and indiciduals around the globe. [Let's Talk!](mailto::stan@stansassets.com)
 
 Plugin Build principles
 -------------------
