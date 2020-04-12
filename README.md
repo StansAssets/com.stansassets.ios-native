@@ -7,7 +7,7 @@ We’ve put all our experience of how to properly build a plugin for Unity devel
 
 **Note:** The plugin source code is only avaliable after the purchase on the [Unity Asset Store](https://assetstore.unity.com/packages/tools/integration/ios-native-pro-119175)
 
-Pro-line principles
+Plugin Build principles
 -------------------
 
 Apart from all the statements above, the Ultimate Mobile will inherit all the pro-line plugins development principles:
